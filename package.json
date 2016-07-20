@@ -1,0 +1,17 @@
+{
+  "name": "shorturl",
+  "version": "1.0.0",
+  "description": "Create a short url for each given web address",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "freecodecamp",
+    "apiproject",
+    "shorturl"
+  ],
+  "author": "DrSebic",
+  "license": "ISC"
+}
